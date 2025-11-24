@@ -9,7 +9,8 @@
 - 'E' to open/close doors
 - Find a golden cube, walk towards it to WIN!!!
 
-
+## Program Results
+![](https://github.com/Divyesh-Bhanvadiya/GAM531-Assignment-9-3DRoomMazeWithCollisionDetection/blob/main/Program%20Results%20(with%20Text).gif)
 
 ## 🎯 Project Overview
 
@@ -47,7 +48,10 @@ This project implements a 3D maze navigation game featuring:
 
 ## 🚀 Running the Project
 
-1. Clone repo from GitHub
+1. Clone repo from GitHub OR Download zip from GitHub
+```bash
+git clone https://github.com/Divyesh-Bhanvadiya/GAM531-Assignment-9-3DRoomMazeWithCollisionDetection.git
+```
 2. Open in your choice of IDE
 3. Build and run
 4. Navigate the maze, open doors with **E**, find the golden cube to win!
